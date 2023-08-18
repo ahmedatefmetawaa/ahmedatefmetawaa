@@ -38,7 +38,7 @@
 
 
   # 
-  <a href=#><img src="contributions.svg"></a>
+  <a href=#><img src="Contribution.svg"></a>
   #
 
 
@@ -56,8 +56,8 @@
 
 # My Status
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ged0oo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ged0oo&layout=compact&langs_count=20&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedatefmetawaa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedatefmetawaa&layout=compact&langs_count=20&theme=transparent"/>
 </div>
 
 
@@ -66,7 +66,7 @@
 
 # My Contributions
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ged0oo&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmedatefmetawaa&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
